@@ -23,8 +23,8 @@ To set up the environment and run the application, follow these steps:
 1. **Clone the Repository**
 
    ```bash
-   git clone [URL_of_Your_Repository]
-   cd [Repository_Name]
+   git clone https://github.com/Lionvsx/streamlit-ai-forum
+   cd streamlit-ai-forum
     ```
    
 2. **Create a Virtual Environment**
